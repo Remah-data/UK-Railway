@@ -12,7 +12,6 @@ The analysis was carried out using **Python** with the following libraries:
 - **pandas, numpy** → Data manipulation and statistical operations  
 - **matplotlib, seaborn** → Data visualization and exploration  
 - **ydata-profiling** → Automated exploratory profiling  
-- **scikit-learn** → Machine learning for regression and clustering  
 
 ---
 
