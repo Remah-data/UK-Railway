@@ -6,7 +6,5 @@ seaborn
 pydeck
 reportlab
 ydata-profiling
-Pillow
-scikit-learn
 
 
