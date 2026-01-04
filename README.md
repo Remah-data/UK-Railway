@@ -81,4 +81,3 @@ Studying purchase activity across time.
 ---
 
 
-Kaggle: [Remah Ramadan](http://bit.ly/4n1XjMI)  
