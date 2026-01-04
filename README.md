@@ -1,13 +1,13 @@
 # Railways UK Data Analysis
 
-## 📖 Overview
+## Overview
 This project presents a **comprehensive data analysis** of the UK Railways dataset.  
 It includes **data cleaning, preprocessing, exploratory data analysis (EDA), KPI development, deep insights, and customer segmentation**.  
 The objective is to extract meaningful insights about **ticket prices, delays, revenue distribution, travel patterns, and customer behavior**.
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 The analysis was carried out using **Python** with the following libraries:
 - **pandas, numpy** → Data manipulation and statistical operations  
 - **matplotlib, seaborn** → Data visualization and exploration  
@@ -15,7 +15,7 @@ The analysis was carried out using **Python** with the following libraries:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 ├── railwaysukipynb.py    # Main analysis script
 ├── railway.csv           # Dataset (not included in repo, add separately)
@@ -26,7 +26,7 @@ The analysis was carried out using **Python** with the following libraries:
 
 ---
 
-## 📸 Visualizations
+## Visualizations
 
 ### 1. Distribution Analysis
 Understanding the distribution of prices, delays, and journey durations.
@@ -80,9 +80,5 @@ Studying purchase activity across time.
 
 ---
 
-## 👩‍💻 Author
-**Remah Ramadan** – Data Analyst  
 
-Email: remahramadan10@gmail.com  
-LinkedIn: [Remah Ramadan](https://bit.ly/4lDIiPy)  
 Kaggle: [Remah Ramadan](http://bit.ly/4n1XjMI)  
